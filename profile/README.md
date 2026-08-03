@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://stackbinary.io">
-    <img src="https://stackbinary.io/stack-logo.png" width="120" alt="StackBinary" />
+    <img src="https://www.stackbinary.io/stack-logo.png" width="120" alt="StackBinary" />
   </a>
 </p>
 
